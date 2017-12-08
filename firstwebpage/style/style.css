@@ -1,0 +1,14 @@
+#awesomeTitle{
+	margin-top: 50px;
+}
+
+.bodyText{
+	color:black;
+	font-size: 100;
+	margin: 50px;
+}
+
+nav li {
+	display: inline-block;
+	margin: 5px;
+}
