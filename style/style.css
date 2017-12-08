@@ -12,3 +12,6 @@ nav li {
 	display: inline-block;
 	margin: 5px;
 }
+nav {
+	margin:25px;
+}
