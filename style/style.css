@@ -1,17 +1,9 @@
 #awesomeTitle{
-	font-size: xx-large;
 	padding: 70px;
 	margin-top: 20px;
-	font-family: Hiragino Maru Gothic ProN;
-	font-weight: bold;
 	background-image:
 	url(http://25.media.tumblr.com/84b671a19d51e11e5949859869f4713c/tumblr_mib9lmJB541s5mt8go1_500.gif);
 	background-position: center;
-	background-repeat: no-repeat;
-}
-
-#background {
-	background-image: url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjb5tXL8P3XAhXk4IMKHcR3DAQQjRwIBw&url=https%3A%2F%2Fwww.pinterest.com%2Fmargaret0972%2Fvegetables-as-shapes%2F&psig=AOvVaw0kgW2AZALqYVDhkbPq8sBw&ust=1512941352015936);
 	background-repeat: no-repeat;
 }
 
