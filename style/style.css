@@ -1,17 +1,38 @@
 #awesomeTitle{
-	margin-top: 50px;
+	font-size: xx-large;
+	margin-top: 42px;
+	font-family: Hiragino Maru Gothic ProN;
+	font-weight: bold;
 }
 
-.bodyText{
-	color:black;
-	font-size: 100;
-	margin: 50px;
-}
 
 nav li {
 	display: inline-block;
+	font-size: large;
 	margin: 5px;
+	font-family: Hiragino Sans;
+
+}
+nav li a {
+	font-size: large;
 }
 nav {
-	margin:25px;
+	margin:10px;
+	margin-bottom: 20px;
 }
+
+.bodyText {
+	font-size: large;
+	margin: 10px;
+	margin-left: 70px;
+	margin-right: 70px;
+	font-family: Hiragino Sans;
+}
+
+.anotherText{
+	color: #006621;
+	font-size: large;
+	font-family: Hiragino Sans;
+
+}
+
